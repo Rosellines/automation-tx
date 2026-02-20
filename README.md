@@ -149,3 +149,5 @@ src/
 
 - Action revert
 : beberapa kontrak memang punya rule/cooldown on-chain; cek explorer + trace tx.
+
+copyright by #Mikasa_Enix
