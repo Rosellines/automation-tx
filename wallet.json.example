@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Main Wallet",
+    "privateKey": "0x..."
+  },
+  {
+    "name": "Wallet 2",
+    "privateKey": "0x..."
+  }
+]
